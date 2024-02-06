@@ -1,4 +1,4 @@
-# astro-transform-vite-test
+# astro-vite-transform-test
 
 `testFolder` contains the Astro integration
 
